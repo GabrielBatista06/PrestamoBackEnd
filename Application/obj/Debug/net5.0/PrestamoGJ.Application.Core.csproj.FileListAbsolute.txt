@@ -1,0 +1,15 @@
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\bin\Debug\net5.0\PrestamoGJ.Application.Core.deps.json
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\bin\Debug\net5.0\PrestamoGJ.Application.Core.dll
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\bin\Debug\net5.0\ref\PrestamoGJ.Application.Core.dll
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\bin\Debug\net5.0\PrestamoGJ.Application.Core.pdb
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\bin\Debug\net5.0\PrestamoGJ.Domain.dll
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\bin\Debug\net5.0\PrestamoGJ.Domain.pdb
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\obj\Debug\net5.0\PrestamoGJ.Application.Core.csproj.AssemblyReference.cache
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\obj\Debug\net5.0\PrestamoGJ.Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\obj\Debug\net5.0\PrestamoGJ.Application.Core.AssemblyInfoInputs.cache
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\obj\Debug\net5.0\PrestamoGJ.Application.Core.AssemblyInfo.cs
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\obj\Debug\net5.0\PrestamoGJ.Application.Core.csproj.CoreCompileInputs.cache
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\obj\Debug\net5.0\PrestamoGJ.Application.Core.csproj.CopyComplete
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\obj\Debug\net5.0\PrestamoGJ.Application.Core.dll
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\obj\Debug\net5.0\ref\PrestamoGJ.Application.Core.dll
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\Application\obj\Debug\net5.0\PrestamoGJ.Application.Core.pdb

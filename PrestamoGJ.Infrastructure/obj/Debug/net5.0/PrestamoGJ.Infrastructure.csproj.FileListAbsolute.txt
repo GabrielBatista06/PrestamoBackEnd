@@ -1,0 +1,17 @@
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\bin\Debug\net5.0\PrestamoGJ.Infrastructure.deps.json
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\bin\Debug\net5.0\PrestamoGJ.Infrastructure.dll
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\bin\Debug\net5.0\ref\PrestamoGJ.Infrastructure.dll
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\bin\Debug\net5.0\PrestamoGJ.Infrastructure.pdb
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\bin\Debug\net5.0\PrestamoGJ.Application.Core.dll
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\bin\Debug\net5.0\PrestamoGJ.Domain.dll
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\bin\Debug\net5.0\PrestamoGJ.Application.Core.pdb
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\bin\Debug\net5.0\PrestamoGJ.Domain.pdb
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\obj\Debug\net5.0\PrestamoGJ.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\obj\Debug\net5.0\PrestamoGJ.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\obj\Debug\net5.0\PrestamoGJ.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\obj\Debug\net5.0\PrestamoGJ.Infrastructure.AssemblyInfo.cs
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\obj\Debug\net5.0\PrestamoGJ.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\obj\Debug\net5.0\PrestamoGJ.Infrastructure.csproj.CopyComplete
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\obj\Debug\net5.0\PrestamoGJ.Infrastructure.dll
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\obj\Debug\net5.0\ref\PrestamoGJ.Infrastructure.dll
+C:\Users\Enfoco\Desktop\repositorios\PrestamoGJ\PrestamoGJ.Infrastructure\obj\Debug\net5.0\PrestamoGJ.Infrastructure.pdb
